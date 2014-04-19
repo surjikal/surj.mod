@@ -1,9 +1,7 @@
 surj.mod - BlitzMax Modules
 ===========================
 
-Various BlitzMax Modules...
-
-#### Installing modules
+#### Installing these modules
 ```bash
 cd <blitzmax_folder>/mod
 git clone https://github.com/surjikal/surj.mod
